@@ -209,4 +209,5 @@ Stack: Python · OpenCV · YOLOv8 · MediaPipe · NumPy · Matplotlib
 
 link of Input Data video : https://drive.google.com/file/d/1eoF6gou59wTBGgL54spxaBgN3sUPd3yh/view?usp=sharing
 
-link of Output annotated video : https://drive.google.com/file/d/1bzMj-wUpKuFasNg_77Ir623t9nvjn7pT/view?usp=sharing
+link of Output annotated video : https://drive.google.com/file/d/1ulZxIBmh-wZk07K82BbC8Vnxs8DeM13l/view?usp=sharing
+
