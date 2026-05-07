@@ -1,0 +1,17 @@
+# Core
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Object Detection (choose one or both)
+ultralytics>=8.0.0        # YOLOv8 — pip install ultralytics
+# torch>=2.0.0            # Needed by ultralytics (auto-installed)
+# torchvision>=0.15.0
+
+# Pose Estimation (optional but recommended)
+mediapipe>=0.10.0
+
+# Utilities
+tqdm>=4.65.0
+Pillow>=9.5.0

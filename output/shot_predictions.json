@@ -1,0 +1,961 @@
+{
+  "summary": {
+    "total_shots": 91,
+    "shot_type_counts": {
+      "backhand": 36,
+      "volley": 5,
+      "smash": 23,
+      "forehand": 27
+    },
+    "shots_per_player": {
+      "0": {
+        "backhand": 12,
+        "volley": 2
+      },
+      "122": {
+        "volley": 1,
+        "backhand": 1
+      },
+      "183": {
+        "smash": 1
+      },
+      "201": {
+        "backhand": 1
+      },
+      "205": {
+        "forehand": 2
+      },
+      "221": {
+        "backhand": 3
+      },
+      "239": {
+        "forehand": 2,
+        "backhand": 1
+      },
+      "280": {
+        "backhand": 2
+      },
+      "310": {
+        "backhand": 1
+      },
+      "313": {
+        "forehand": 1,
+        "backhand": 6
+      },
+      "356": {
+        "backhand": 4,
+        "volley": 1
+      },
+      "397": {
+        "forehand": 1,
+        "backhand": 2
+      },
+      "403": {
+        "smash": 1,
+        "forehand": 20,
+        "backhand": 1,
+        "volley": 1
+      },
+      "405": {
+        "smash": 21,
+        "backhand": 2,
+        "forehand": 1
+      }
+    },
+    "avg_interval_between_shots_sec": 3.61,
+    "first_shot_frame": 5,
+    "last_shot_frame": 8124
+  },
+  "shots": [
+    {
+      "frame": 5,
+      "timestamp_sec": 0.2,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 0,
+      "ball_center": [
+        758.5,
+        718.0
+      ]
+    },
+    {
+      "frame": 116,
+      "timestamp_sec": 4.64,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 0,
+      "ball_center": null
+    },
+    {
+      "frame": 152,
+      "timestamp_sec": 6.08,
+      "shot_type": "volley",
+      "confidence": 0.6,
+      "player_id": 0,
+      "ball_center": null
+    },
+    {
+      "frame": 285,
+      "timestamp_sec": 11.4,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 0,
+      "ball_center": [
+        464.5,
+        405.5
+      ]
+    },
+    {
+      "frame": 336,
+      "timestamp_sec": 13.44,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 0,
+      "ball_center": [
+        674.0,
+        435.0
+      ]
+    },
+    {
+      "frame": 353,
+      "timestamp_sec": 14.12,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 0,
+      "ball_center": [
+        700.5,
+        417.0
+      ]
+    },
+    {
+      "frame": 377,
+      "timestamp_sec": 15.08,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 0,
+      "ball_center": null
+    },
+    {
+      "frame": 537,
+      "timestamp_sec": 21.48,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 0,
+      "ball_center": null
+    },
+    {
+      "frame": 570,
+      "timestamp_sec": 22.8,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 0,
+      "ball_center": [
+        1086.0,
+        625.5
+      ]
+    },
+    {
+      "frame": 585,
+      "timestamp_sec": 23.4,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 0,
+      "ball_center": [
+        1088.5,
+        612.5
+      ]
+    },
+    {
+      "frame": 797,
+      "timestamp_sec": 31.88,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 0,
+      "ball_center": null
+    },
+    {
+      "frame": 823,
+      "timestamp_sec": 32.92,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 0,
+      "ball_center": [
+        947.0,
+        478.0
+      ]
+    },
+    {
+      "frame": 1088,
+      "timestamp_sec": 43.52,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 0,
+      "ball_center": null
+    },
+    {
+      "frame": 1166,
+      "timestamp_sec": 46.64,
+      "shot_type": "volley",
+      "confidence": 0.6,
+      "player_id": 0,
+      "ball_center": null
+    },
+    {
+      "frame": 1988,
+      "timestamp_sec": 79.52,
+      "shot_type": "volley",
+      "confidence": 0.6,
+      "player_id": 122,
+      "ball_center": null
+    },
+    {
+      "frame": 2008,
+      "timestamp_sec": 80.32,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 122,
+      "ball_center": null
+    },
+    {
+      "frame": 3041,
+      "timestamp_sec": 121.64,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 183,
+      "ball_center": [
+        1054.0,
+        214.5
+      ]
+    },
+    {
+      "frame": 3090,
+      "timestamp_sec": 123.6,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 201,
+      "ball_center": [
+        515.5,
+        695.5
+      ]
+    },
+    {
+      "frame": 3451,
+      "timestamp_sec": 138.04,
+      "shot_type": "forehand",
+      "confidence": 0.65,
+      "player_id": 205,
+      "ball_center": null
+    },
+    {
+      "frame": 3497,
+      "timestamp_sec": 139.88,
+      "shot_type": "forehand",
+      "confidence": 0.65,
+      "player_id": 205,
+      "ball_center": null
+    },
+    {
+      "frame": 3689,
+      "timestamp_sec": 147.56,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 221,
+      "ball_center": [
+        1210.0,
+        547.5
+      ]
+    },
+    {
+      "frame": 3720,
+      "timestamp_sec": 148.8,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 221,
+      "ball_center": null
+    },
+    {
+      "frame": 3761,
+      "timestamp_sec": 150.44,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 221,
+      "ball_center": null
+    },
+    {
+      "frame": 3815,
+      "timestamp_sec": 152.6,
+      "shot_type": "forehand",
+      "confidence": 0.65,
+      "player_id": 239,
+      "ball_center": null
+    },
+    {
+      "frame": 3906,
+      "timestamp_sec": 156.24,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 239,
+      "ball_center": [
+        1013.5,
+        215.0
+      ]
+    },
+    {
+      "frame": 3984,
+      "timestamp_sec": 159.36,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 239,
+      "ball_center": null
+    },
+    {
+      "frame": 4518,
+      "timestamp_sec": 180.72,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 280,
+      "ball_center": null
+    },
+    {
+      "frame": 4578,
+      "timestamp_sec": 183.12,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 280,
+      "ball_center": [
+        609.5,
+        571.5
+      ]
+    },
+    {
+      "frame": 4717,
+      "timestamp_sec": 188.68,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 310,
+      "ball_center": [
+        568.0,
+        742.0
+      ]
+    },
+    {
+      "frame": 5104,
+      "timestamp_sec": 204.16,
+      "shot_type": "forehand",
+      "confidence": 0.65,
+      "player_id": 313,
+      "ball_center": null
+    },
+    {
+      "frame": 5139,
+      "timestamp_sec": 205.56,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 313,
+      "ball_center": null
+    },
+    {
+      "frame": 5162,
+      "timestamp_sec": 206.48,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 313,
+      "ball_center": null
+    },
+    {
+      "frame": 5220,
+      "timestamp_sec": 208.8,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 313,
+      "ball_center": null
+    },
+    {
+      "frame": 5235,
+      "timestamp_sec": 209.4,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 313,
+      "ball_center": null
+    },
+    {
+      "frame": 5251,
+      "timestamp_sec": 210.04,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 313,
+      "ball_center": null
+    },
+    {
+      "frame": 5271,
+      "timestamp_sec": 210.84,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 313,
+      "ball_center": null
+    },
+    {
+      "frame": 5505,
+      "timestamp_sec": 220.2,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 356,
+      "ball_center": null
+    },
+    {
+      "frame": 5794,
+      "timestamp_sec": 231.76,
+      "shot_type": "volley",
+      "confidence": 0.6,
+      "player_id": 356,
+      "ball_center": null
+    },
+    {
+      "frame": 5926,
+      "timestamp_sec": 237.04,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 356,
+      "ball_center": [
+        1031.5,
+        623.0
+      ]
+    },
+    {
+      "frame": 5970,
+      "timestamp_sec": 238.8,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 356,
+      "ball_center": [
+        1048.5,
+        638.5
+      ]
+    },
+    {
+      "frame": 6049,
+      "timestamp_sec": 241.96,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 356,
+      "ball_center": null
+    },
+    {
+      "frame": 6278,
+      "timestamp_sec": 251.12,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 397,
+      "ball_center": [
+        1237.0,
+        741.5
+      ]
+    },
+    {
+      "frame": 6320,
+      "timestamp_sec": 252.8,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 397,
+      "ball_center": null
+    },
+    {
+      "frame": 6340,
+      "timestamp_sec": 253.6,
+      "shot_type": "smash",
+      "confidence": 0.72,
+      "player_id": 403,
+      "ball_center": null
+    },
+    {
+      "frame": 6375,
+      "timestamp_sec": 255.0,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 397,
+      "ball_center": [
+        754.0,
+        375.0
+      ]
+    },
+    {
+      "frame": 6472,
+      "timestamp_sec": 258.88,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        1121.0,
+        687.0
+      ]
+    },
+    {
+      "frame": 6516,
+      "timestamp_sec": 260.64,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        878.0,
+        640.5
+      ]
+    },
+    {
+      "frame": 6535,
+      "timestamp_sec": 261.4,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        802.0,
+        614.0
+      ]
+    },
+    {
+      "frame": 6553,
+      "timestamp_sec": 262.12,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        781.0,
+        637.0
+      ]
+    },
+    {
+      "frame": 6577,
+      "timestamp_sec": 263.08,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        734.5,
+        599.0
+      ]
+    },
+    {
+      "frame": 6626,
+      "timestamp_sec": 265.04,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        779.0,
+        666.0
+      ]
+    },
+    {
+      "frame": 6661,
+      "timestamp_sec": 266.44,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        807.5,
+        696.5
+      ]
+    },
+    {
+      "frame": 6682,
+      "timestamp_sec": 267.28,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        830.5,
+        621.5
+      ]
+    },
+    {
+      "frame": 6716,
+      "timestamp_sec": 268.64,
+      "shot_type": "forehand",
+      "confidence": 0.65,
+      "player_id": 403,
+      "ball_center": null
+    },
+    {
+      "frame": 6742,
+      "timestamp_sec": 269.68,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        805.5,
+        617.5
+      ]
+    },
+    {
+      "frame": 6764,
+      "timestamp_sec": 270.56,
+      "shot_type": "backhand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        732.0,
+        669.0
+      ]
+    },
+    {
+      "frame": 6804,
+      "timestamp_sec": 272.16,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        781.0,
+        664.5
+      ]
+    },
+    {
+      "frame": 6823,
+      "timestamp_sec": 272.92,
+      "shot_type": "volley",
+      "confidence": 0.6,
+      "player_id": 403,
+      "ball_center": null
+    },
+    {
+      "frame": 6929,
+      "timestamp_sec": 277.16,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        1113.5,
+        573.5
+      ]
+    },
+    {
+      "frame": 6954,
+      "timestamp_sec": 278.16,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        1112.5,
+        638.0
+      ]
+    },
+    {
+      "frame": 6978,
+      "timestamp_sec": 279.12,
+      "shot_type": "forehand",
+      "confidence": 0.65,
+      "player_id": 403,
+      "ball_center": null
+    },
+    {
+      "frame": 6996,
+      "timestamp_sec": 279.84,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        1102.5,
+        650.0
+      ]
+    },
+    {
+      "frame": 7011,
+      "timestamp_sec": 280.44,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        1089.0,
+        625.0
+      ]
+    },
+    {
+      "frame": 7051,
+      "timestamp_sec": 282.04,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        921.0,
+        611.5
+      ]
+    },
+    {
+      "frame": 7066,
+      "timestamp_sec": 282.64,
+      "shot_type": "forehand",
+      "confidence": 0.65,
+      "player_id": 403,
+      "ball_center": null
+    },
+    {
+      "frame": 7118,
+      "timestamp_sec": 284.72,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        1166.5,
+        640.5
+      ]
+    },
+    {
+      "frame": 7147,
+      "timestamp_sec": 285.88,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 403,
+      "ball_center": [
+        1161.5,
+        635.0
+      ]
+    },
+    {
+      "frame": 7354,
+      "timestamp_sec": 294.16,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        928.5,
+        573.5
+      ]
+    },
+    {
+      "frame": 7388,
+      "timestamp_sec": 295.52,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 405,
+      "ball_center": null
+    },
+    {
+      "frame": 7412,
+      "timestamp_sec": 296.48,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        1070.5,
+        618.0
+      ]
+    },
+    {
+      "frame": 7436,
+      "timestamp_sec": 297.44,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        648.5,
+        378.0
+      ]
+    },
+    {
+      "frame": 7453,
+      "timestamp_sec": 298.12,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        1103.0,
+        666.0
+      ]
+    },
+    {
+      "frame": 7572,
+      "timestamp_sec": 302.88,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        1042.0,
+        696.0
+      ]
+    },
+    {
+      "frame": 7587,
+      "timestamp_sec": 303.48,
+      "shot_type": "forehand",
+      "confidence": 0.5,
+      "player_id": 405,
+      "ball_center": [
+        1101.5,
+        670.0
+      ]
+    },
+    {
+      "frame": 7610,
+      "timestamp_sec": 304.4,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        1016.0,
+        573.0
+      ]
+    },
+    {
+      "frame": 7646,
+      "timestamp_sec": 305.84,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        1086.5,
+        636.5
+      ]
+    },
+    {
+      "frame": 7671,
+      "timestamp_sec": 306.84,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        1090.5,
+        664.0
+      ]
+    },
+    {
+      "frame": 7719,
+      "timestamp_sec": 308.76,
+      "shot_type": "smash",
+      "confidence": 0.72,
+      "player_id": 405,
+      "ball_center": null
+    },
+    {
+      "frame": 7753,
+      "timestamp_sec": 310.12,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        999.5,
+        684.5
+      ]
+    },
+    {
+      "frame": 7771,
+      "timestamp_sec": 310.84,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        976.0,
+        638.5
+      ]
+    },
+    {
+      "frame": 7800,
+      "timestamp_sec": 312.0,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        857.5,
+        620.0
+      ]
+    },
+    {
+      "frame": 7818,
+      "timestamp_sec": 312.72,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        807.5,
+        641.5
+      ]
+    },
+    {
+      "frame": 7912,
+      "timestamp_sec": 316.48,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        797.5,
+        687.0
+      ]
+    },
+    {
+      "frame": 7927,
+      "timestamp_sec": 317.08,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        780.0,
+        689.0
+      ]
+    },
+    {
+      "frame": 7942,
+      "timestamp_sec": 317.68,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        779.5,
+        690.0
+      ]
+    },
+    {
+      "frame": 7987,
+      "timestamp_sec": 319.48,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        824.0,
+        713.0
+      ]
+    },
+    {
+      "frame": 8004,
+      "timestamp_sec": 320.16,
+      "shot_type": "backhand",
+      "confidence": 0.65,
+      "player_id": 405,
+      "ball_center": null
+    },
+    {
+      "frame": 8065,
+      "timestamp_sec": 322.6,
+      "shot_type": "smash",
+      "confidence": 0.72,
+      "player_id": 405,
+      "ball_center": null
+    },
+    {
+      "frame": 8080,
+      "timestamp_sec": 323.2,
+      "shot_type": "smash",
+      "confidence": 0.72,
+      "player_id": 405,
+      "ball_center": [
+        846.0,
+        636.5
+      ]
+    },
+    {
+      "frame": 8102,
+      "timestamp_sec": 324.08,
+      "shot_type": "smash",
+      "confidence": 0.72,
+      "player_id": 405,
+      "ball_center": null
+    },
+    {
+      "frame": 8124,
+      "timestamp_sec": 324.96,
+      "shot_type": "smash",
+      "confidence": 0.55,
+      "player_id": 405,
+      "ball_center": [
+        829.5,
+        635.0
+      ]
+    }
+  ]
+}
